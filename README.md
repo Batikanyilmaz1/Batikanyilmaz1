@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m @Batikanyilmaz1
 - 👀 I’m interested in Machine learning and AI 
-- 📫 How to reach me ... email: farid.sallam02@bilgiedu.net , website: www.7amza.site
+- 📫 How to reach me ... email: batikanyilmaz1420@gmail.com , website: https://batikanyilmaz1.me/
 
 <br/>
 
