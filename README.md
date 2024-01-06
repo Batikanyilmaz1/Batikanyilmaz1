@@ -10,7 +10,6 @@
 
 
 - 👋 Hi, I’m @Batikanyilmaz1
-- 👀 I’m interested in Machine learning and AI 
 - 📫 How to reach me ... email: batikanyilmaz1420@gmail.com , website: https://batikanyilmaz1.me/
 
 <br/>
